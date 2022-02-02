@@ -1,0 +1,2 @@
+Titanic-Survival-Prediction-using-ML
+Weather the person is dead or alive in Titanic accident is I am trying to figure out. I used Kaggle data set in this project . I built model using Logistic Regression Algorithm.
